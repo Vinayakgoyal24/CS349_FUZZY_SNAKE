@@ -1,6 +1,6 @@
 # Fuzzy Logic Snake Game
 
-A classic Snake game implemented with fuzzy logic for more advanced control. In this game, the snake navigates an arena to eat food items, which lengthen its body. The goal is to avoid colliding with the snake's own body or any obstacles like bricks that may be present. 
+A classic Snake game implemented with fuzzy logic for more advanced control. In this game, the snake navigates an arena to eat food items, which lengthen its body. The goal is to avoid colliding with the snake's own body or any obstacles like fire blocks that may be present. 
 
 This game allows the user to switch between manual control and automated fuzzy logic-based controllers, each optimized for different layouts of obstacles.
 
